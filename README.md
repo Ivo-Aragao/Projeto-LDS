@@ -1,21 +1,7 @@
-<h1 align="center">
-  <img src=".github/logo.png" alt="Launchstore" >
-</h1>
-
-<p>
-  <img src="https://img.shields.io/badge/made%20by-RAFAEL%20MARTINS-04cc5e?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/launchstore?color=04cc5e&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/martins-rafael/launchstore?color=04cc5e&style=flat-square">
-  <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-04cc5e?style=flat-square">
-  </a>
-  
-</p>
-
 
 ## Tópicos 
 
-[Sobre a Launchstore](#sobre-a-launchstore)
+[Sobre a Launchstore](#sobre-a-CE-Artesanato)
 
 [Funcionalidades](#funcionalidades)
 
@@ -23,41 +9,13 @@
 
 [Instalação e uso](#instalação-e-uso)
 
-[Licença](#licença)
 
 <br>
 
-## Sobre a Launchstore
+## Sobre a CE-Artesanato
 
-Launchstore é um projeto de e-commerce, desenvolvido durante o bootcamp LaunchBase da [Rocketseat](https://rocketseat.com.br/), onde foram abordados conceitos como MVC, controle de sessões, criptografia de senhas, envio de e-mails, upload de imagens, validações no back e front end, animações, dentre outros.
+CE-Artesanato é um projeto de e-commerce, onde foram podemos comercializar produtos artesanais com maior facilidade e acessivel para todos.
 
-<h3 align="center">Home</h3>
-<p align="center">
-  <img src=".github/home.png" alt="página principal">
-</p>
-
-<br>
-
-<h3 align="center">Carrinho de Compras</h3>
-<p align="center">
-  <img src=".github/cart.png" alt="carrinho de compras">
-</p>
-
-<br>
-
-<h3 align="center">Pesquisa de Produtos</h3>
-<p align="center">
-  <img src=".github/search.png" alt="pesquisa de produtos">
-</p>
-
-<br>
-
-<h3 align="center">Página de Produto</h3>
-<p align="center">
-  <img src=".github/product.png" alt="página de produto">
-</p>
-
-<br>
 
 ## Funcionalidades
 
@@ -70,7 +28,6 @@ Launchstore é um projeto de e-commerce, desenvolvido durante o bootcamp LaunchB
 - [X] Páginas dinâmicas com Nunjucks.
 - [X] Banco de dados PostgreSQL.
 - [X] Sistema de login e recuperação de senha.
-- [X] Animações com Lottie.
 
 <br>
 
@@ -130,17 +87,11 @@ $ npm start
 <br>
 
 ## Licença
-<a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-04cc5e?style=flat-square">
-</a>
-
 <br>
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
 
 ---
 
-Feito com :purple_heart: by [Rafael Martins](https://github.com/martins-rafael)
+Feito com :purple_heart: by [Rafael Martins, Eduardo, Ana Mires, Joacir]
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins/)](https://www.linkedin.com/in/rafaeldcmartins/) 
-[![Gmail Badge](https://img.shields.io/badge/-rafaeldcmartins@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com)](mailto:rafaeldcmartins@gmail.com)
