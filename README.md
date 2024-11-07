@@ -1,7 +1,7 @@
 
 ## Tópicos 
 
-[Sobre a Launchstore](#sobre-a-CE-Artesanato)
+[Sobre a CE-Artesanato](#sobre-a-CE-Artesanato)
 
 [Funcionalidades](#funcionalidades)
 
