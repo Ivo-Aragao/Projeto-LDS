@@ -59,11 +59,8 @@ Siga os passos abaixo:
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/martins-rafael/launchstore.git
+$ git clone https://github.com/Ivo-Aragao/Projeto-LDS.git
 # ou use a opção de download.
-
-# Entre na pasta com 
-$ cd launchstore
 
 # Instale as dependências
 $ npm install
@@ -93,5 +90,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito com :purple_heart: by [Rafael Martins, Eduardo, Ana Mires, Joacir]
+Feito com :purple_heart: by [Ivo Aragão, Eduardo, Ana Mires, Joacir]
 
